@@ -1,0 +1,19 @@
+{
+	"name": "@alfiras/time",
+	"version": "1.0.0",
+	"description": "Utils for get time value",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/qreimeider/time.git"
+	},
+	"author": "Alfiras",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/qreimeider/time/issues"
+	},
+	"homepage": "https://github.com/qreimeider/time#readme"
+}
